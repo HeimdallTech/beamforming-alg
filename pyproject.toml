@@ -6,6 +6,10 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "acoular>=24.7",
+    "bokeh>=3.4.3",
+    "librosa>=0.10.2.post1",
     "matplotlib>=3.9.4",
     "pyyaml>=6.0.2",
+    "scipy>=1.13.1",
+    "spectacoular>=24.6",
 ]
