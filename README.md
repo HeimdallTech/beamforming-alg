@@ -2,4 +2,4 @@
 POC for beamforming algorythm
 
 Launch acoular demo:
-`$ uv run acoular_demo.py`
+`$ uv run beamforming.py`
